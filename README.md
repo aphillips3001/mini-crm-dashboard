@@ -22,7 +22,6 @@ A lightweight, frontend-only CRM-style dashboard built with HTML, CSS, and JavaS
 ## 🌐 Live Demo
 
 👉 [View the project on GitHub Pages](https://aphillips3001.github.io/mini-crm-dashboard/)  
-*(Update this link after publishing)*
 
 ## 🧠 What I Learned
 
