@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mini CRM Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mini CRM Dashboard</h1>
+  </header>
+
+  <main>
+    <section id="customer-list">
+      <h2>Customers</h2>
+      <input type="text" id="search" placeholder="Search customers...">
+      <ul id="customers"></ul>
+    </section>
+
+    <section id="customer-detail">
+      <h2>Customer Details</h2>
+      <div id="details"></div>
+
+      <form id="log-form">
+        <h3>Log a Call</h3>
+        <textarea id="log-entry" placeholder="Call notes..."></textarea>
+        <button type="submit">Submit</button>
+      </form>
+
+      <h3>Activity Log</h3>
+      <ul id="activity-log"></ul>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
