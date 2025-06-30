@@ -36,4 +36,4 @@ A lightweight, frontend-only CRM-style dashboard built with HTML, CSS, and JavaS
 **Alexander Phillips**  
 📧 aphillips3001@gmail.com  
 📍 Tennessee  
-[GitHub](https://github.com/aphillips3001) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/aphillips3001) | [LinkedIn](https://linkedin.com/in/alex-phillips-a55b4b371)
